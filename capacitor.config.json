@@ -1,0 +1,9 @@
+{
+  "appId": "com.ayman.civilregistry",
+  "appName": "السجل المدني",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
